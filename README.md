@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansh Gupta</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img src ="https://giffiles.alphacoders.com/120/120251.gif" alt = "">
 
 - 🌱 I’m currently learning **DSA and Web Development**
 
